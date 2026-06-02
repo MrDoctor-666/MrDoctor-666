@@ -1,4 +1,6 @@
-## Hi there 👋
+### .NET Backend Developer
+
+C# • ASP.NET Core • EF Core • MS SQL • PostgreSQL • Kafka • RabbitMQ • Docker
 
 <!--
 **MrDoctor-666/MrDoctor-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
